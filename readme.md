@@ -20,3 +20,8 @@ The objective is to analyze SpaceX launch data and build machine learning models
 - Feature Engineering
 - Machine Learning Classification
 - Data Visualization & Dashboards
+- 
+## Visual Insights
+
+![Launch Sites Map](visuals/launch_sites_map.png)
+![Payload vs Landing Success](visuals/payload_vs_landing_success.png)
